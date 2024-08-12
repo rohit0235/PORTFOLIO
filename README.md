@@ -37,8 +37,5 @@ git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
 
 ## Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact me you can reach me at [Linkdin](https://www.linkedin.com/in/rohit-kumar-sahu-ba19a2238/).
 
-## License
-
-MIT
